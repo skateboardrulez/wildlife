@@ -24,7 +24,7 @@
 	color: #F77F1E;
 }
 
-.content {
+.content{
 	max-width: 940px;
 	margin: auto;
 }
@@ -265,17 +265,21 @@
 		}
 	.content_box {
 		width: 100%;
+		margin: 1.6%;
 		}
 	.welcome {
 		width: 100%;
+		margin: 1.6%;
 	}
 
 	.programs {
 		width: 100%;
+		margin: 1.6%;
 	}
 	
 	.featured_news {
 		width: 100%;
+		margin: 1.6%;
 	}	
 	.footer {
 		width: 100%;
@@ -289,21 +293,24 @@
 		padding: 1% 2.7%;
 	}
 	.welcome {
-		width: 49%;
+		width: 48%;
+		margin: 1.6%;
 	}
 	
 	.programs {
-		width: 49%;
+		width: 48%;
 	}	
 }
 
 @media (min-width: 930px) {
 	.welcome {
 		width: 33%;
+		margin: 1.6%;
 	}
 	
 	.programs {
 		width: 33%;
+		margin: 1.6%;
 	}
 		
 }
@@ -311,6 +318,7 @@
 @media (max-width: 930px) {
 	.featured_news {
 		width: 100%;
+		margin: 1.6%;
 	}
 }
 
