@@ -27,6 +27,7 @@
 
 .main_menu {
 	padding: 0px;
+	z-index: 1;
 }
 
 .dropdown {
@@ -56,6 +57,7 @@
 	color: #5A5552;
 	border: 1px solid #DCD7CD;
 	font-weight: bold;
+	
 }
 
 .main_menu button:hover {
