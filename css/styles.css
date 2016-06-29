@@ -21,7 +21,7 @@
 }
 
 .content_menu {
-	max-width: 938px;
+	max-width: 940px;
 	margin: auto;
 }
 
@@ -49,7 +49,7 @@
 }
 
 .main_menu button {
-	width: 16.5%;
+	width: 16.65%;
 	float: left;
 	height: 90px;
 	background: #F3F0EA;
@@ -62,10 +62,32 @@
 	color: #EE7818;
 }
 
+.content_bigpic {
+	
+}
+
+.content_slider {
+	width: 100%;
+}
+
+.slider {
+  margin: auto;
+  width: 940px; /* Update to your slider width */
+  height: 471px; /* Update to your slider height */
+  position: relative;
+  overflow: hidden;
+}
+
+.slider li {
+  display: none;
+  position: absolute; 
+  top: 0; 
+  left: 0;  
+}
 
 
 @media (max-width: 767px) {
-	.content_menu {
+	.main_menu {
 		display:none;
 		}
 	}
