@@ -294,7 +294,6 @@
 	}
 	.welcome {
 		width: 48%;
-		margin: 1.6%;
 	}
 	
 	.programs {
@@ -305,12 +304,10 @@
 @media (min-width: 930px) {
 	.welcome {
 		width: 33%;
-		margin: 1.6%;
 	}
 	
 	.programs {
 		width: 33%;
-		margin: 1.6%;
 	}
 		
 }
