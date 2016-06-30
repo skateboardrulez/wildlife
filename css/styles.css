@@ -287,6 +287,23 @@
 	}
 }
 
+.navbar-inverse .navbar-nav>li>a{
+	color: #EE7818;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	color: #495150;
+}
+
+.navbar-inverse .navbar-nav>li>ul>li>a {
+	color: #495150;
+}
+
+.navbar-inverse .navbar-nav>li>ul>li>a:hover {
+	color: #EE7818;
+	text-decoration: none;
+}
+
 
 @media (min-width: 767px) {
 	.dropdown {
