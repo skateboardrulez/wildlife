@@ -251,6 +251,7 @@
 
 .content_column ol li {
 	margin: 27px 0px;
+	list-style-type: disc;
 }
 
 .news h4 {
